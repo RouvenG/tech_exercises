@@ -1,0 +1,1 @@
+print(f"The value of __name__ in component_0.py is {__name__}")

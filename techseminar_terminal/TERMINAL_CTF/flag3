@@ -1,0 +1,93 @@
+#bin/bash
+touch mk
+rm mk
+if [ -a XA ]
+then
+touch mk
+rm mk
+fi
+
+for i in {1..500} 
+do 
+    exec -a $(uuidgen | tr -d '-') sleep 100 &
+done
+if [ -a AFAX ]
+  then
+    exec -a $(uuidgen | tr -d '-' | cut -c 1-13)TheKeyIs_3D3A9O6G7E sleep 100 &
+    for i in {1..500} 
+do 
+    exec -a $(uuidgen | tr -d '-') sleep 100 &
+done
+fi
+if [ -a 0ASD ]
+  then
+    exec -a $(uuidgen | tr -d '-' | cut -c 1-13)TheKeyIs_3D1A9O6G7E sleep 100 &
+    for i in {1..500} 
+do 
+    exec -a $(uuidgen | tr -d '-') sleep 100 &
+done
+fi
+if [ -a ASDD ]
+  then
+    exec -a $(uuidgen | tr -d '-' | cut -c 1-13)TheKeyIs_3D3A9O4G7E sleep 100 &
+    for i in {1..500} 
+do 
+    exec -a $(uuidgen | tr -d '-') sleep 100 &
+done
+fi
+if [ -a AS ]
+  then
+    exec -a $(uuidgen | tr -d '-' | cut -c 1-13)TheKeyIs_3D3A3O6G7E sleep 100 &
+    for i in {1..500} 
+do 
+    exec -a $(uuidgen | tr -d '-') sleep 100 &
+done
+fi
+if [ -a 0D ]
+  then
+    exec -a $(uuidgen | tr -d '-' | cut -c 1-13)TheKeyIs_3D3A9O4G7E sleep 100 &
+    for i in {1..500} 
+do 
+    exec -a $(uuidgen | tr -d '-') sleep 100 &
+done
+fi
+if [ -a 0DAd ]
+  then
+    exec -a $(uuidgen | tr -d '-' | cut -c 1-13)TheKeyIs_3D3A9O6G4E sleep 100 &
+    for i in {1..500} 
+do 
+    exec -a $(uuidgen | tr -d '-') sleep 100 &
+done
+fi
+if [ -a 0ASD ]
+  then
+    exec -a $(uuidgen | tr -d '-' | cut -c 1-13)TheKeyIs_3A3AFH6G7E sleep 100 &
+    for i in {1..500} 
+do 
+    exec -a $(uuidgen | tr -d '-') sleep 100 &
+done
+fi
+if [ -a 0SDD ]
+  then
+    exec -a $(uuidgen | tr -d '-' | cut -c 1-13)TheKeyIs_3DSAFH6G7E sleep 100 &
+    for i in {1..500} 
+do 
+    exec -a $(uuidgen | tr -d '-') sleep 100 &
+done
+fi
+if [ -a 0DSD ]
+  then
+    exec -a $(uuidgen | tr -d '-' | cut -c 1-13)TheKeyIs_fDSA9S6G7E sleep 100 &
+    for i in {1..500} 
+do 
+    exec -a $(uuidgen | tr -d '-') sleep 100 &
+done
+fi
+if [ -a 0asdD ]
+  then
+    exec -a $(uuidgen | tr -d '-' | cut -c 1-13)TheKeyIs_3D3ASA6G7E sleep 100 &
+    for i in {1..500} 
+do 
+    exec -a $(uuidgen | tr -d '-') sleep 100 &
+done
+fi
